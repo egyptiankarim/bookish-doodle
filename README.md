@@ -18,7 +18,7 @@ To help structure the content in here, I'm trying to stick to the following high
 
 #### Introduction (3)
 
-- [PHIL 100 - Introduction to Philosophy](https://github.com/egyptiankarim/bookish-doodle/phil-100-introduction-to-philosophy)
+- [PHIL 100 - Introduction to Philosophy](phil-100-introduction-to-philosophy)
 - PHIL 150 - Contemporary Moral Issues
 - PHIL 152 - Introduction to Ethics
 
@@ -31,7 +31,7 @@ To help structure the content in here, I'm trying to stick to the following high
 - PHIL 350 - Ethical Theory
 - PHIL 353 - Morality and Psychology
 - PHIL 354 - Ethics, Animals, and the Environment
-- [PHIL 355 - Political Philosophy](https://github.com/egyptiankarim/bookish-doodle/phil-355-political-philosophy)
+- [PHIL 355 - Political Philosophy](phil-355-political-philosophy)
 - PHIL 356 - Philosophy of Law
 - PHIL 357 - Philosophy and Human Rights
 - PHIL 358 - Bioethics
@@ -57,4 +57,4 @@ To help structure the content in here, I'm trying to stick to the following high
 
 #### Free for all (+)
 
-- [PHIL ??? - Everything Else](https://github.com/egyptiankarim/bookish-doodle/phil-???-everything-else)
+- [PHIL ??? - Everything Else](phil-???-everything-else)
