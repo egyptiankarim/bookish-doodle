@@ -1,16 +1,18 @@
 ## bookish-doodle
 
-This repository is where I track my progress through a self-guided undergraduate philosophy curriculum. I've stolen the course map from [the UMBC Philosophy Department](https://philosophy.umbc.edu), associated course catalog, and syllabi I scrounge up from wherever.
+This repository is where I track my progress through a self-guided undergraduate philosophy curriculum. The name `bookish-doodle` is a bit of serendipity; GitHub randomly generated the suggestion when I created the repository, and I thought it fit the vibe.
+
+I've stolen the course map from [the UMBC Philosophy Department](https://philosophy.umbc.edu), [MIT OpenCourseWare](https://ocw.mit.edu/courses/linguistics-and-philosophy/), associated course catalogs, and syllabi I scrounge up from wherever.
 
 ### Conventions
 
 To help structure the content in here, I'm trying to stick to the following high-level conventions:
 
 - Projects for each course (with standard "To do", "Doing", "Done" swim lanes).
-- Directories with their own READMEs for course content.
+- Directories with their own READMEs for course content (when necessary).
 - Issues for course requirements (e.g., reading assignments).
+- When the principal topic is reading material, we'll use an inline citation format for Issue titles, with a full citation in the Issue body.
 - Issue threads for open discussion and brainstorming.
-- Issue templates for capturing citations.
 
 ### Academic path
 
