@@ -6,4 +6,4 @@ Additionally, this course serves as a "seminar" for a Supreme Court case reading
 
 _See [Projects](https://github.com/egyptiankarim/bookish-doodle/projects/3)_
 
-_See [Issues](https://github.com/egyptiankarim/bookish-doodle/issues?q=is%3Aissue+project%3Aegyptiankarim%2Fbookish-doodle%3F1+)_
+_See [Issues](https://github.com/egyptiankarim/bookish-doodle/issues?q=is%3Aissue+project%3Aegyptiankarim%2Fbookish-doodle%2F3+)_
