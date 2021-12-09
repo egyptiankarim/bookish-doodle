@@ -5,4 +5,5 @@ A critical examination of selected philosophical theories aimed at addressing su
 Additionally, this course serves as a "seminar" for a Supreme Court case reading group.
 
 _See [Projects](https://github.com/egyptiankarim/bookish-doodle/projects/3)_
+
 _See [Issues](https://github.com/egyptiankarim/bookish-doodle/issues?q=is%3Aissue+project%3Aegyptiankarim%2Fbookish-doodle%3F1+)_
