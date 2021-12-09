@@ -1,8 +1,8 @@
 ## `bookish-doodle`
 
-This repository is where I track my progress through a self-guided undergraduate philosophy curriculum. The name `bookish-doodle` is a bit of serendipity; GitHub randomly generated the suggestion when I created the repository, and I thought it fit the vibe.
+This repository is where I track an undergraduate philosophy curriculum intended for self-guided study. The name `bookish-doodle` is a bit of serendipity; GitHub randomly generated the suggestion when I created the repository, and I thought it fit the vibe.
 
-I've stolen the course map from [the UMBC Philosophy Department](https://philosophy.umbc.edu), [MIT OpenCourseWare](https://ocw.mit.edu/courses/linguistics-and-philosophy/), associated course catalogs, and syllabi I scrounge up from wherever.
+I've stolen a course map from [the UMBC Philosophy Department](https://philosophy.umbc.edu), [MIT OpenCourseWare](https://ocw.mit.edu/courses/linguistics-and-philosophy/), associated course catalogs, and syllabi I scrounge up from wherever.
 
 ### Repository conventions
 
