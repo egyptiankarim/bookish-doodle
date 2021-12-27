@@ -20,7 +20,7 @@ To help structure the content in here, I'm trying to stick to the following high
 
 - [PHIL 100 - Introduction to Philosophy](phil-100-introduction-to-philosophy)
 - PHIL 150 - Contemporary Moral Issues
-- PHIL 152 - Introduction to Ethics
+- [PHIL 152 - Introduction to Ethics](phil-152-introduction-to-ethics)
 
 #### Logic (1)
 
