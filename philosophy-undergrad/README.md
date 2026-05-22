@@ -1,0 +1,50 @@
+## Philosophy Undergrad Nonsense
+
+A sub-section of `bookish-doodle` based on an undergraduate philosophy curriculum intended for self-guided study.
+
+I've stolen a course map from [the UMBC Philosophy Department](https://philosophy.umbc.edu), [MIT OpenCourseWare](https://ocw.mit.edu/courses/linguistics-and-philosophy/), associated course catalogs, and syllabi I scrounge up from wherever.
+
+### Academic path
+
+#### Introduction (3)
+
+- [PHIL 100 - Introduction to Philosophy](phil-100-introduction-to-philosophy)
+- PHIL 150 - Contemporary Moral Issues
+- [PHIL 152 - Introduction to Ethics](phil-152-introduction-to-ethics)
+
+#### Logic (1)
+
+- PHIL 346 - Deductive Logic
+
+#### Ethics (1)
+
+- PHIL 350 - Ethical Theory
+- PHIL 353 - Morality and Psychology
+- PHIL 354 - Ethics, Animals, and the Environment
+- [PHIL 355 - Political Philosophy](phil-355-political-philosophy)
+- PHIL 356 - Philosophy of Law
+- PHIL 357 - Philosophy and Human Rights
+- PHIL 358 - Bioethics
+
+#### History (2)
+
+- PHIL 321 - History of Philosophy: Ancient
+- PHIL 322 - History of Philosophy: Modern
+
+#### Metaphysics / Epistemology (1)
+
+- PHIL 345 – Philosophy of Language
+- PHIL 371 – Epistemology
+- PHIL 372 – Philosophy of Science
+- PHIL 373 – Metaphysics
+- PHIL 394 – Philosophy of Biology
+- PHIL 395 – Philosophy of Physics
+- PHIL 380 – Philosophy of Mind
+
+#### Other electives (10)
+
+- ???
+
+#### Free for all (+)
+
+- [PHIL ??? - Everything Else](phil-???-everything-else)
